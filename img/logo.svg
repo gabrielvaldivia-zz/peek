@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="781px" height="782px" viewBox="0 0 781 782" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iTunesArtwork@2x" sketch:type="MSArtboardGroup" transform="translate(-130.000000, -107.000000)">
+            <g id="icon" sketch:type="MSLayerGroup" transform="translate(155.000000, 132.000000)">
+                <path d="M142.262025,439.263736 C63.3559301,441.246683 5.68434189e-14,505.832965 5.68434189e-14,585.216817 C5.68434189e-14,665.850391 65.3664265,731.216817 146,731.216817 C225.058219,731.216817 289.440018,668.379595 291.925522,589.925026 L292,590 L292,439 L142,439 L142.26199,439.263737 Z M292.046148,224.046368 C292.015432,222.534615 292,221.01911 292,219.5 C292,98.2734974 390.273497,0 511.5,0 C632.726503,0 731,98.2734974 731,219.5 C731,340.726503 632.726503,439 511.5,439 C509.638176,439 507.781766,438.97682 505.931043,438.930732 L506,439 L292,439 L292,224 L292.046147,224.046363 L292.046148,224.046368 Z" id="Oval-73" stroke="#FFFFFF" stroke-width="50" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M174,640 C174,622.326888 159.673112,608 142,608 C124.326888,608 110,622.326888 110,640 C110,657.673112 174,657.673112 174,640 Z" id="Oval-75" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(142.000000, 630.627417) rotate(-180.000000) translate(-142.000000, -630.627417) "></path>
+                <path d="M520.5,339 C559.98836,339 592,306.708586 592,266.875108 C592,247.756086 559.056408,237.813692 524.793341,237.047926 C487.671109,236.218259 449,246.160653 449,266.875108 C449,306.708586 481.01164,339 520.5,339 Z" id="Oval-75-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M439.5,188 C452.478692,188 463,196.478692 463,183.5 C463,170.521308 452.478692,160 439.5,160 C426.521308,160 416,170.521308 416,183.5 C416,196.478692 426.521308,188 439.5,188 Z" id="Oval-75-Copy-7" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-75-Copy-2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="197" cy="562" r="15"></circle>
+                <circle id="Oval-75-Copy-6" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="95" cy="562" r="15"></circle>
+                <circle id="Oval-75-Copy-5" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="610.5" cy="174.5" r="23.5"></circle>
+                <rect id="Rectangle-3" opacity="0.3" fill="#CFD2D7" sketch:type="MSShapeGroup" x="267" y="407" width="50" height="7"></rect>
+                <rect id="Rectangle-3-Copy" opacity="0.3" fill="#CFD2D7" sketch:type="MSShapeGroup" x="267" y="464" width="50" height="23"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

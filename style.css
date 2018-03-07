@@ -1,0 +1,271 @@
+html {
+    color: #FFD700;
+    font-size: 1em;
+    line-height: 1.4;
+    background: url(img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family: San Francisco Display, Helvetica Neue, Helvetica, Arial, sans-serif;
+	text-align: center;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.content {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px;
+	min-width: 340px;
+	padding-bottom: 10%;
+}
+
+
+.app-icon {
+	width: 30%;
+	height: 20%;
+	margin: 10% 0;
+	-webkit-animation-name: Floatingx;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    -moz-animation-name: Floating;
+    -moz-animation-duration: 5s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: ease-in-out;
+}
+
+@-webkit-keyframes Floatingx{
+    from {-webkit-transform:translate(0, 0px);}
+    65% {-webkit-transform:translate(0, 15px);}
+    to {-webkit-transform: translate(0, -0px);    }    
+}
+    
+@-moz-keyframes Floating{
+    from {-moz-transform:translate(0, 0px);}
+    65% {-moz-transform:translate(0, 15px);}
+    to {-moz-transform: translate(0, -0px);}    
+}
+
+.footer {
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 1em;
+	display: block;
+	position: relative;
+	float: left;
+	margin-right: 0;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	font-size: 1em;
+	width: 100%;
+}
+
+.footer a{
+	color: rgba(255, 255, 255, 0.7);
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: rgba(255, 255, 255, 1);
+}
+
+/* TEXT STYLES */
+
+h1 {
+	font-size: 70px;
+	display: block;
+	margin-bottom: 0px;
+}
+
+h2 {
+	display: block;
+	margin-top: 10px;
+	color: #ccc;
+}
+
+h1 {
+	color: white;
+	font-size: 40px;
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	padding: 0;
+	line-height: 40px;
+}
+
+h1 a {
+	color: white;
+	text-decoration: none;
+}
+
+h1 a:hover {
+	color: white;
+}
+
+p {
+	color: rgba(255, 255, 255, .7);
+	font-size: 20px;
+	display: block;
+	margin-top: 0;
+	width: 90%;
+	margin: 10px auto;
+}
+
+p a {
+	color: rgba(255, 255, 255, .7);
+	display: inline-block;
+	text-decoration: none;
+	border-bottom: 1px solid;
+}
+
+p a:hover {
+	color: rgba(255, 255, 255, 1);
+}
+
+p a:visited {
+	color: rgba(255, 255, 255, .7);
+}
+
+
+
+/* MAILCHIMP FORM */
+
+#mc-embedded-subscribe-form{
+	
+}
+
+#mc_embed_signup{ 
+	clear:left; 
+	box-sizing: border-box;
+	max-width: 600px;
+	width: 80%;
+	margin: 40px auto 20px auto;
+	padding-top: 40px;
+	padding: 0 !important;
+}
+
+#mc_embed_signup form {
+	padding: 0 !important;
+}
+
+
+#mc_embed_signup_scroll{
+	margin: 0;
+	box-sizing: border-box !important;
+}
+
+#mc_embed_signup .mc-field-group {
+	min-height: 0 !important;
+	width: 70% !important;
+	padding-bottom: none !important;
+	float: left;
+	margin-right: 1% !important;
+}
+
+#mc_embed_signup .mc-field-group input {
+	margin: 0;
+	text-indent: 0 !important;
+	font-size: 15px !important;
+	padding: 8px 14px !important;
+	border: 0 !important;
+	font-size: 15px !important;
+	height: 44px !important;
+	line-height: 44px !important;
+}
+
+#mc_embed_signup .button {
+	font-size: 15px !important;
+	height: 44px !important;
+	line-height: 44px !important;
+	width: 28% !important;
+} 
+
+
+/* Email field */
+#mce-EMAIL {
+	float: left;
+	margin-top: 4%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	font-size: 1.2em;
+	border-radius: 6px;
+	border-style: none; 
+	color: rgba(0, 0, 0, 0.3)
+}
+
+#mce-EMAIL:focus {
+	color: rgba(0, 0, 0, 1);
+	outline: none;
+}
+
+.response {
+	
+}
+
+#mce-responses {
+	
+}
+
+#mce-error-response {
+	
+}
+
+#mce-success-response{
+	
+}
+
+#mc_embed_signup .clear {
+	clear:none !important;
+}
+
+/* Subscribe Button */
+#mc-embedded-subscribe {
+}
+
+#mc_embed_signup .button {
+	background-color: black !important;
+	border-radius: 6px !important;
+}
+
+@media screen and (max-width: 640px) {
+
+#mc_embed_signup .mc-field-group {
+	width: 100% !important;
+	margin-right: 0 !important;
+}
+
+#mc_embed_signup .button {
+	width:100% !important;
+}
+
+#mc_embed_signup{ 
+	width: 90%;
+}
+
+.footer {
+	position: relative;
+	float: left;
+	margin-right: 0;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	font-size: 1em;
+	width: 100%;
+}
+
+
+}
+
+@media screen and (min-height: 760px) {
+
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 10px;
+}
+
+
+}
